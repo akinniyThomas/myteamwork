@@ -1,0 +1,34 @@
+{
+  "name": "myteamwork",
+  "version": "1.0.0",
+  "description": "this is my own teamwork that i will test everything on first of all",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akinniyThomas/myteamwork.git"
+  },
+  "keywords": [
+    "services",
+    "express"
+  ],
+  "author": "Akinniyi Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akinniyThomas/myteamwork/issues"
+  },
+  "homepage": "https://github.com/akinniyThomas/myteamwork#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.6.4",
+    "@babel/core": "^7.6.4",
+    "@babel/node": "^7.6.3",
+    "@babel/preset-env": "^7.6.3",
+    "@babel/register": "^7.6.2",
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
